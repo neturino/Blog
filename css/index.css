@@ -11,5 +11,5 @@
     right: 0;
     bottom: 0;
     background: url(/img/bg3.jpg) no-repeat;
-    background-size: cover;
+    background-size: contain;
 }
