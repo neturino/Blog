@@ -17,7 +17,7 @@
 .introduce {
     width: 24.375em;
     height: 10.625em;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.6);
     position: absolute;
     top: 8.75rem;
     left: 2.5rem;
@@ -37,7 +37,7 @@ h4>span {
 .contact {
     width: 15.625em;
     height: 5.9375em;
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.6);
     position: absolute;
     top: 21.875rem;
     left: 2.5rem;
