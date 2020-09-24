@@ -13,3 +13,23 @@
     background: url(/img/bg3.png) no-repeat center center fixed;
     background-size: cover;
 }
+
+.introduce {
+    width: 24.375em;
+    height: 10.625em;
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 12.5rem;
+    left: 2.5rem;
+    color: white;
+    padding: 0.625em;
+}
+
+h4>span {
+    font-size: 0.8em;
+}
+
+.introduce>p {
+    margin: 1em 0;
+    font-size: 0.8em;
+}
