@@ -19,7 +19,7 @@
     height: 10.625em;
     background: rgba(0, 0, 0, 0.3);
     position: absolute;
-    top: 12.5rem;
+    top: 8.75rem;
     left: 2.5rem;
     color: white;
     padding: 0.625em;
@@ -32,4 +32,19 @@ h4>span {
 .introduce>p {
     margin: 1em 0;
     font-size: 0.8em;
+}
+
+.contact {
+    width: 15.625em;
+    height: 5.9375em;
+    background: rgba(0, 0, 0, 0.3);
+    position: absolute;
+    top: 21.875rem;
+    left: 2.5rem;
+    color: white;
+    padding: 0.625em;
+}
+
+.erweima>img {
+    width: 2.8125em;
 }
