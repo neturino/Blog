@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    list-style: none;
 }
 
 .bg {
@@ -45,6 +46,13 @@ h4>span {
     padding: 0.625em;
 }
 
+.line {
+    margin-top: 0.3125em;
+    width: 9.375em;
+    border: 2px solid rgb(242, 255, 36);
+    border-radius: 0.3125em;
+}
+
 .erweima>img {
     width: 2.8125em;
 }
@@ -52,4 +60,26 @@ h4>span {
 .contact>p {
     margin: 1em 0;
     font-size: 0.8em;
+}
+
+.content_list {
+    width: 30.625em;
+    height: 16.75em;
+    background: rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 5.75rem;
+    right: 8.75em;
+    padding: 0.625em;
+}
+
+.passage_list>li {
+    margin: 1.4em 0;
+}
+
+.passage_list>li>a {
+    color: white;
+}
+
+.passage_list>li>a:hover {
+    color: rgb(242, 255, 36);
 }
