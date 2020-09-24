@@ -48,3 +48,8 @@ h4>span {
 .erweima>img {
     width: 2.8125em;
 }
+
+.contact>p {
+    margin: 1em 0;
+    font-size: 0.8em;
+}
