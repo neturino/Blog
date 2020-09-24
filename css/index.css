@@ -84,3 +84,13 @@ h4>span {
 .passage_list>li>a:hover {
     color: rgb(242, 255, 36);
 }
+
+.photo {
+    width: 9.375em;
+    height: 9.375em;
+    position: absolute;
+    background: url(/img/photo.jpg) no-repeat;
+    background-size: 9.375em;
+    top: 30em;
+    right: 8.75em;
+}
